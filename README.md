@@ -15,24 +15,24 @@ If you use the code from this repository, please cite our paper:
 }
 ```
 
-# Dependencies
+## Dependencies
 * Python 3.8
 * PyTorch
 * Transformers
 * Scikit-Learn
 * Pytest (only for testing purpose)
 
-# Installing
+## Installing
 ```
 pip install -r requirements.txt
 ```
 
-# Downloading Data
+## Downloading Data
 ```
 sh src/scripts/download_data.sh
 ```
 
-# Running Tests
+## Running Tests
 ```
 pytest
 ```
