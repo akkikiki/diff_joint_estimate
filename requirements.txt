@@ -13,8 +13,8 @@ numpy
 nltk
 pytest
 torch==1.5.1
-torchvision==0.5.0
+torchvision
 transformers==2.4.1
 scipy==1.4.1
 scikit-learn==0.23.2
-dataclasses==0.7
+dataclasses
