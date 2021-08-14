@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ```
 
 ## Downloading Data
+GloVe and Cambridge Readability Dataset is not included in this repository, so you need to download it by running the following command:
 ```
 sh src/scripts/download_data.sh
 ```
