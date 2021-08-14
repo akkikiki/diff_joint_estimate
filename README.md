@@ -14,3 +14,13 @@ If you use the code from this repository, please cite our paper:
     url = "https://aclanthology.org/2021.textgraphs-1.16",
 }
 ```
+
+# Installing
+```
+pip install -r requirements.txt
+```
+
+# Downloading Data
+```
+sh src/scripts/download_data.sh
+```
