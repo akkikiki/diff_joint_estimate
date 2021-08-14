@@ -37,3 +37,9 @@ sh src/scripts/download_data.sh
 ```
 pytest
 ```
+
+## Example Script for Training a Model
+Since it uses BERT, run it on GPU or try dropping `bert_avg` feature.
+```
+sh src/scripts/train_model_sample.sh
+```
