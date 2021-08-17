@@ -39,7 +39,7 @@ pytest
 ```
 
 ## Example Script for Training a Model
-Since it uses BERT, run it on GPU or try dropping `bert_avg` feature.
+Since it uses BERT, run it on GPU or try dropping `bert_avg` feature if running it on CPU.
 ```
 sh src/scripts/train_model_sample.sh
 ```
