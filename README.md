@@ -1,9 +1,9 @@
 diff_joint_learn
 ==============================
 
-This repository contains the code used in [Semi-Supervised Joint Estimation of Word and Document Readability (Fujinuma and Hagiwara 2021)](http://arxiv.org/abs/2104.13103).
+This repository contains the code and the data used in [Semi-Supervised Joint Estimation of Word and Document Readability (Fujinuma and Hagiwara 2021)](http://arxiv.org/abs/2104.13103).
 
-If you use the code from this repository, please cite our paper:
+If you use the code or the data from this repository, please cite our paper:
 
 ```
 @inproceedings{fujinuma-hagiwara2021semi,
